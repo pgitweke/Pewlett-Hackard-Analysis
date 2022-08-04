@@ -2,13 +2,13 @@
 
 ## Overview of Project
 
-The purpose of this project was to use PostgreSQL determine the number of retiring employees by title and identify empoyees who are eligible to partcipate in the mentorship program. An ERD commonly known as entity relationship diagram  is used to provide efficiency by showing the relationship between different tables.  Below is a snippet of of thr ERD we used for this proje.
+The purpose of this project was to use PostgreSQL determine the number of retiring employees by title and identify empoyees who are eligible to partcipate in the mentorship program. An ERD commonly known as entity relationship diagram  is used to provide efficiency by showing the relationship between different tables.  Below is a snippet of the ERD we used for this project.
 
 ![Entity Relationship Diagram ](EmployeeDB.png)
 
 ### Results
 
-Below is a summary of the results based on the data provided as well as snippets to visualize the employees eligible for the mentorship program as well as the number of retirement-age employees by most recent job title.
+Below is a summary of the results based on the data provided as well as snippets to visualize employees eligible for the mentorship program as well as the number of retirement-age employees by most recent job title.
 
 ![Employees Eligible For Retirement](retiring_titles.png)
 
